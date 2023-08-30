@@ -1,5 +1,5 @@
 # FutureReadyTalent
-This is my internship project where I have implemented Azure services under the guidance of Future Talent Ready
+This is my internship project where I have implemented Azure services under the guidance of Future  Ready Talent
 <br>
 #Website link
 <br>
